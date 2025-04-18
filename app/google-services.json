@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597784677670",
+    "project_id": "linkup-2f828",
+    "storage_bucket": "linkup-2f828.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597784677670:android:d3a8257604e652463145e7",
+        "android_client_info": {
+          "package_name": "com.project.linkup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojGp8nNGDmmqfO1EdwFKRbek6q_pp0rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
